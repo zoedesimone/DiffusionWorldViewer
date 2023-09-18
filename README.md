@@ -1,6 +1,6 @@
 # DiffusionWorldViewer
 This repository contains code for the paper:
-[What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews] () 
+What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews
 <br>
 Authors: Zoe De Simone, Angie Boggust, Arvind Satyanarayan, Ashia Wilson
 <br>
