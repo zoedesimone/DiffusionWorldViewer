@@ -12,7 +12,8 @@ Authors: Zoe De Simone, Angie Boggust, Arvind Satyanarayan, Ashia Wilson
 
 ## DiffusionWorldViewer Demo
 
-A demo of the DiffusionWorldViewer can be run in Google Colab, by running this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zoedesimone/DiffusionWorldViewer/blob/main/DiffusionWorldViewer.ipynb)
+A demo of the DiffusionWorldViewer can be run in Google Colab, by running this 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zoedesimone/DiffusionWorldViewer/blob/main/DiffusionWorldViewer.ipynb)]
 
 ## Citation
 If you find the Embedding Comparator useful in your work, please cite:
