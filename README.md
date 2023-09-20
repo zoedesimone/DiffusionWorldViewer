@@ -19,10 +19,12 @@ A demo of the DiffusionWorldViewer can be run in Google Colab, by running this
 If you find the Embedding Comparator useful in your work, please cite:
 
 ```bibtex
-@article{desimone2023DiffusionWorldViewer,
+@misc{desimone2023fair,
       title={What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews}, 
-      author={ Zoe De Simone and Angie Boggust and Arvind Satyanarayan and Ashia Wilson},
+      author={Zoe De Simone and Angie Boggust and Arvind Satyanarayan and Ashia Wilson},
       year={2023},
-      journal={}
+      eprint={2309.09944},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
