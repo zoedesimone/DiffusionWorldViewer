@@ -1,8 +1,7 @@
 # DiffusionWorldViewer
 
-This repository contains code for the paper:[DiffusionWorldViewer: Exposing and Broadening the Worldview Reflected by Generative Text-to-Image Models](https://arxiv.org/abs/2309.09944)
+This repository contains code for the paper: [DiffusionWorldViewer: Exposing and Broadening the Worldview Reflected by Generative Text-to-Image Models](https://arxiv.org/abs/2309.09944)
 
-<br>
 Authors: Zoe De Simone, Angie Boggust, Arvind Satyanarayan, Ashia Wilson
 
 ![Teaser](img/Dashboard_UI.jpg)
