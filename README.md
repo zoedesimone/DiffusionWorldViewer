@@ -16,7 +16,7 @@ A demo of the DiffusionWorldViewer can be run in Google Colab, by running this
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zoedesimone/DiffusionWorldViewer/blob/main/DiffusionWorldViewer_Paper.ipynb)
 
 ## Citation
-If you find the Diffusion Worldviewer useful in your work, please cite:
+If you find the DiffusionWorldViewer useful in your work, please cite:
 
 ```bibtex
 @misc{desimone2023fair,
